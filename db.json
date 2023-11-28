@@ -1,14 +1,212 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "result": [
+        {
+            "filename": "Hanoi_4199_output-01186",
+            "files": [
+                {
+                    "name": "boundingbox.jpg",
+                    "url": "viz_output_sample_inputs/rank_1/boundingbox.jpg"
+                },
+                {
+                    "name": "countviolation.jpg",
+                    "url": "viz_output_sample_inputs/rank_1/countviolation.jpg"
+                },
+                {
+                    "name": "leastconfidence.jpg",
+                    "url": "viz_output_sample_inputs/rank_1/leastconfidence.jpg"
+                },
+                {
+                    "name": "original.jpg",
+                    "url": "viz_output_sample_inputs/rank_1/original.jpg"
+                }
+            ],
+            "foldername": "rank_1"
+        },
+        {
+            "filename": "ch01_20190522214428[(036730)2019-07-10-14-41-18]",
+            "files": [
+                {
+                    "name": "boundingbox.jpg",
+                    "url": "viz_output_sample_inputs/rank_2/boundingbox.jpg"
+                },
+                {
+                    "name": "disparity.jpg",
+                    "url": "viz_output_sample_inputs/rank_2/disparity.jpg"
+                },
+                {
+                    "name": "leastconfidence.jpg",
+                    "url": "viz_output_sample_inputs/rank_2/leastconfidence.jpg"
+                },
+                {
+                    "name": "original.jpg",
+                    "url": "viz_output_sample_inputs/rank_2/original.jpg"
+                }
+            ],
+            "foldername": "rank_2"
+        },
+        {
+            "filename": "vlcsnap-2019-07-18-14h38m35s833",
+            "files": [
+                {
+                    "name": "boundingbox.jpg",
+                    "url": "viz_output_sample_inputs/rank_3/boundingbox.jpg"
+                },
+                {
+                    "name": "disparity.jpg",
+                    "url": "viz_output_sample_inputs/rank_3/disparity.jpg"
+                },
+                {
+                    "name": "leastconfidence.jpg",
+                    "url": "viz_output_sample_inputs/rank_3/leastconfidence.jpg"
+                },
+                {
+                    "name": "original.jpg",
+                    "url": "viz_output_sample_inputs/rank_3/original.jpg"
+                }
+            ],
+            "foldername": "rank_3"
+        },
+        {
+            "filename": "ch01_20190523105017[(028069)2019-07-15-09-51-44]",
+            "files": [
+                {
+                    "name": "boundingbox.jpg",
+                    "url": "viz_output_sample_inputs/rank_4/boundingbox.jpg"
+                },
+                {
+                    "name": "disparity.jpg",
+                    "url": "viz_output_sample_inputs/rank_4/disparity.jpg"
+                },
+                {
+                    "name": "leastconfidence.jpg",
+                    "url": "viz_output_sample_inputs/rank_4/leastconfidence.jpg"
+                },
+                {
+                    "name": "original.jpg",
+                    "url": "viz_output_sample_inputs/rank_4/original.jpg"
+                }
+            ],
+            "foldername": "rank_4"
+        },
+        {
+            "filename": "ch01_20190523073005[(070463)2019-07-12-15-39-14]",
+            "files": [
+                {
+                    "name": "boundingbox.jpg",
+                    "url": "viz_output_sample_inputs/rank_5/boundingbox.jpg"
+                },
+                {
+                    "name": "disparity.jpg",
+                    "url": "viz_output_sample_inputs/rank_5/disparity.jpg"
+                },
+                {
+                    "name": "leastconfidence.jpg",
+                    "url": "viz_output_sample_inputs/rank_5/leastconfidence.jpg"
+                },
+                {
+                    "name": "original.jpg",
+                    "url": "viz_output_sample_inputs/rank_5/original.jpg"
+                }
+            ],
+            "foldername": "rank_5"
+        },
+        {
+            "filename": "vlcsnap-2019-06-04-14h19m16s185",
+            "files": [
+                {
+                    "name": "boundingbox.jpg",
+                    "url": "viz_output_sample_inputs/rank_6/boundingbox.jpg"
+                },
+                {
+                    "name": "disparity.jpg",
+                    "url": "viz_output_sample_inputs/rank_6/disparity.jpg"
+                },
+                {
+                    "name": "leastconfidence.jpg",
+                    "url": "viz_output_sample_inputs/rank_6/leastconfidence.jpg"
+                },
+                {
+                    "name": "original.jpg",
+                    "url": "viz_output_sample_inputs/rank_6/original.jpg"
+                }
+            ],
+            "foldername": "rank_6"
+        },
+        {
+            "filename": "ch01_20190523105017[(040510)2019-07-15-09-52-39]",
+            "files": [
+                {
+                    "name": "boundingbox.jpg",
+                    "url": "viz_output_sample_inputs/rank_7/boundingbox.jpg"
+                },
+                {
+                    "name": "disparity.jpg",
+                    "url": "viz_output_sample_inputs/rank_7/disparity.jpg"
+                },
+                {
+                    "name": "leastconfidence.jpg",
+                    "url": "viz_output_sample_inputs/rank_7/leastconfidence.jpg"
+                },
+                {
+                    "name": "original.jpg",
+                    "url": "viz_output_sample_inputs/rank_7/original.jpg"
+                }
+            ],
+            "foldername": "rank_7"
+        },
+        {
+            "filename": "Hanoi_4202_output-09000",
+            "files": [
+                {
+                    "name": "countviolation.jpg",
+                    "url": "viz_output_sample_inputs/rank_8/countviolation.jpg"
+                },
+                {
+                    "name": "leastconfidence.jpg",
+                    "url": "viz_output_sample_inputs/rank_8/leastconfidence.jpg"
+                },
+                {
+                    "name": "original.jpg",
+                    "url": "viz_output_sample_inputs/rank_8/original.jpg"
+                }
+            ],
+            "foldername": "rank_8"
+        },
+        {
+            "filename": "Hanoi_4202_output-07130",
+            "files": [
+                {
+                    "name": "countviolation.jpg",
+                    "url": "viz_output_sample_inputs/rank_9/countviolation.jpg"
+                },
+                {
+                    "name": "leastconfidence.jpg",
+                    "url": "viz_output_sample_inputs/rank_9/leastconfidence.jpg"
+                },
+                {
+                    "name": "original.jpg",
+                    "url": "viz_output_sample_inputs/rank_9/original.jpg"
+                }
+            ],
+            "foldername": "rank_9"
+        },
+        {
+            "filename": "vlcsnap-2019-07-18-14h37m21s177",
+            "files": [
+                {
+                    "name": "disparity.jpg",
+                    "url": "viz_output_sample_inputs/rank_10/disparity.jpg"
+                },
+                {
+                    "name": "leastconfidence.jpg",
+                    "url": "viz_output_sample_inputs/rank_10/leastconfidence.jpg"
+                },
+                {
+                    "name": "original.jpg",
+                    "url": "viz_output_sample_inputs/rank_10/original.jpg"
+                }
+            ],
+            "foldername": "rank_10"
+        }
+    ]
 }
